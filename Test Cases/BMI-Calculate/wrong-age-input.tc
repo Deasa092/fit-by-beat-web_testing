@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input age using string</description>
+   <name>wrong-age-input</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0203636-2afd-4c75-945f-c8b8f45e97f0</testCaseGuid>
+</TestCaseEntity>

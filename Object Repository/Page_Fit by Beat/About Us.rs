@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>About Us</name>
+   <tag></tag>
+   <elementGuidId>849151a8-c987-4852-bc6f-7b8e18f2ce76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-menu-item-3467 > a > span.item_outer > span.item_text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='nav-menu-item-3467']/a/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3a3da928-7bb3-46a8-905a-a792ecb77288</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item_text</value>
+      <webElementGuid>7873f0b9-5f90-4f8d-a6d3-3f86e2c5c7ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>About Us</value>
+      <webElementGuid>dfe85bf6-3f3a-4e33-b400-4c4f9bdb8f82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-menu-item-3467&quot;)/a[1]/span[@class=&quot;item_outer&quot;]/span[@class=&quot;item_text&quot;]</value>
+      <webElementGuid>0db21435-a0a0-4635-8fe1-0ddfeb3eec03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='nav-menu-item-3467']/a/span/span</value>
+      <webElementGuid>03916bb4-3930-4424-9bb8-cec8fbb640d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[2]</value>
+      <webElementGuid>8cb0f7e0-96cd-485d-a385-98e02b15baff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow Us'])[1]/following::span[6]</value>
+      <webElementGuid>ac815886-471b-41ed-967d-4aea2995bb31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule'])[1]/preceding::span[1]</value>
+      <webElementGuid>3c60d164-65f2-48d6-84a0-f4e9ddcf8f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Classes'])[1]/preceding::span[3]</value>
+      <webElementGuid>0b3fd598-1448-4a7a-9f9f-f2e47dd73a2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='About Us']/parent::*</value>
+      <webElementGuid>e3983c4e-80da-473a-aa44-670900143b2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span/span</value>
+      <webElementGuid>342c181d-493d-4e75-bd24-9bbc125a6341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'About Us' or . = 'About Us')]</value>
+      <webElementGuid>e8363bb6-9ba9-464c-8675-c2155eb77a71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

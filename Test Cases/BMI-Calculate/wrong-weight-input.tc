@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input weight using string</description>
+   <name>wrong-weight-input</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e4dfe16-0790-4ace-9446-688dd94a1894</testCaseGuid>
+</TestCaseEntity>
